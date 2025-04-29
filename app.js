@@ -1,5 +1,6 @@
-// console.log("Hello World!");
-// console.log("Apna College!");
-let a = 10;
-let b = 5
-console.log("Sum is : ", a+b);
+// let student1 = "aman";
+// let student2 = "shradha";
+// let student3 = "rajat";
+
+let students = ["aman","shradha","rajat"];
+// console.log(students)
